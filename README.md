@@ -1,5 +1,5 @@
 ```
-Currently digging into Spring 🌱.
+Currently digging into Spring 🌱 + Angular 🅰️.
 Full-stacking at Siemens 🛠.
 Hacking at TU-Berlin 🔬.
 
