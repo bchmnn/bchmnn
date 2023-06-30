@@ -1,11 +1,12 @@
 ```
-Currently digging into Spring 🌱 + Angular 🅰️.
-Full-stacking at Siemens 🛠.
+Currently digging into React, Next.js, tRPC, RSC.
+Freelancing at DoctorBox 🛠.
 Hacking at TU-Berlin 🔬.
 
 Latest achievements:
-1. Implemented Microkernel in C ⚙️.
-2. Successfully quitted out of VIM 🔥.
+1. Successfully quitted out of VIM 🔥.
+2. Finally understood useEffect ⚛️.
+2. Implemented Microkernel in C ⚙️.
 
-Feel free to contact me: jacob.bachmann@posteo.de
+Feel free to contact me: jacob dot bachmann at posteo dot de
 ```
