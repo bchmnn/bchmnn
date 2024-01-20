@@ -1,12 +1,12 @@
 ```
-Currently digging into React, Next.js, tRPC, RSC.
-Freelancing at DoctorBox 🛠.
+Currently digging into React, Next.js, tRPC, RSC, Rust, LLVM.
+Freelancing 🛠.
 Hacking at TU-Berlin 🔬.
 
 Latest achievements:
-1. Successfully quitted out of VIM 🔥.
-2. Finally understood useEffect ⚛️.
-2. Implemented Microkernel in C ⚙️.
+1. Built lexer and parser for RTSL.
+2. Made NixOS my main OS.
+2. Implemented Microkernel in C.
 
 Feel free to contact me: jacob dot bachmann at posteo dot de
 ```
